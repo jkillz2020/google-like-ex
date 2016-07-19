@@ -1,0 +1,14 @@
+
+li{
+  display: inline-block;
+  list-style: none;
+  margin: 5px;
+  float: left;
+  margin-bottom: 50px;
+}
+
+.image{
+  margin-left: 350px;
+  margin-top: 200px;
+}
+
