@@ -1,14 +1,49 @@
 
+.nav{
+  float: right;
+  background-color: darkgray;
+  padding-left: 860px;
+}
+
 li{
-  display: inline-block;
+  display: inline;
   list-style: none;
-  margin: 5px;
+  margin: 8px;
   float: left;
-  margin-bottom: 50px;
+  margin-bottom: 20px; 
+}
+
+ul{
+  vertical-align: center;
 }
 
 .image{
-  margin-left: 350px;
-  margin-top: 200px;
+  margin-left: 40%;
+  margin-top: 20%;
+  height: 102px;
+}
+
+.search{
+  margin-left: 570px;
+  margin-top: 30px;
+  text-decoration: bold;
+}
+
+footer{
+  background-color: lightgray;
+  display: inline-block;
+  padding-right: 650px;
+}
+
+.left{
+  list-style: none;
+  margin-right: ;
+  display: inline-block;
+}
+
+.right{
+  list-style: none;
+  margin-left: 60%;
+  display:inline-block;
 }
 
